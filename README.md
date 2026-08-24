@@ -12,8 +12,8 @@ I'm a Computer Science & Engineering student currently building my foundation in
 
 ### 🛠️ Technologies & Tools
 
-**Currently learning:** C
-**Familiarity:** Basic HTML (currently revisiting from the beginning)
+**Currently learning:** C <br>
+**Familiarity:** Basic HTML (currently revisiting from the beginning) <br>
 **Programming tools:** VS Code • Code::Blocks
 
 ### 📌 Current Focus
