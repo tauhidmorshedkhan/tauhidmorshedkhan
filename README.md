@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Tauhid Morshed Khan👋
 
-<!--
-**tauhidmorshedkhan/tauhidmorshedkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science & Engineering student currently building my foundation in **programming, problem-solving, and software engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning **C programming**
+* 🧠 Working on strengthening my **programming fundamentals and problem-solving skills**
+* 💡 Interested in **Software Engineering**
+* 📚 Exploring CSE concepts and learning step by step
+* 🚧 No projects yet — currently focused on learning the fundamentals
+
+### 🛠️ Technologies & Tools
+
+**Currently learning:** C
+**Familiarity:** Basic HTML (currently revisiting from the beginning)
+**Programming tools:** VS Code • Code::Blocks
+
+### 📌 Current Focus
+
+```text
+Learn → Practice → Understand → Improve
+```
+
+> *Building the foundation before building the projects.* 🚀
